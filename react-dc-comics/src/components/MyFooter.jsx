@@ -1,9 +1,9 @@
 const MyFooter = () => {
     return (
     <footer>
-    <div class="top-footer">
-      <div class="container">
-        <div class="column">
+    <div className="top-footer">
+      <div className="container">
+        <div className="column">
           <h3>DC COMICS</h3>
           <ul>
             <li>Characters</li>
@@ -21,7 +21,7 @@ const MyFooter = () => {
           </ul>
         </div>
 
-        <div class="column">
+        <div className="column">
           <h3>DC</h3>
           <ul>
             <li>Terms Of Use</li>
@@ -38,7 +38,7 @@ const MyFooter = () => {
           </ul>
         </div>
 
-        <div class="column">
+        <div className="column">
           <h3>SITES</h3>
           <ul>
             <li>DC</li>
@@ -50,16 +50,16 @@ const MyFooter = () => {
         </div>
       </div>
     </div>
-    <div class="bottom-footer">
-      <div class="container">
+    <div className="bottom-footer">
+      <div className="container">
         <button>SIGN-UP NOW!</button>
-        <div class="social">
+        <div className="social">
           <span>FOLLOW US</span>
-          <img src="img/footer-facebook.png" alt="">
-          <img src="img/footer-twitter.png" alt="">
-          <img src="img/footer-youtube.png" alt="">
-          <img src="img/footer-pinterest.png" alt="">
-          <img src="img/footer-periscope.png" alt="">
+          <img src="footer-facebook.png" alt="" />
+          <img src="footer-twitter.png" alt="" />
+          <img src="footer-youtube.png" alt="" />
+          <img src="footer-pinterest.png" alt="" />
+          <img src="footer-periscope.png" alt="" />
         </div>
       </div>
     </div>
