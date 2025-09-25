@@ -16,15 +16,15 @@ const MyFooter = () => {
           </ul>
           <h3>SHOP</h3>
           <ul>
-            <li><a href="#">Shop DC</a></li>
-            <li><a href="#">Shop DC Collectibles</a></li>
+            <li>Shop DC</li>
+            <li>Shop DC Collectibles</li>
           </ul>
         </div>
 
         <div className="column">
           <h3>DC</h3>
           <ul>
-            <li><a href="#">Terms Of Use</a></li>
+            <li>Terms Of Use</li>
             <li>Privacy policy (New)</li>
             <li>Ad Choices</li>
             <li>Advertising</li>
